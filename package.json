@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "my first nodejs file",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikash Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^17.3.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
